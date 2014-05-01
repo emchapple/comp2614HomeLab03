@@ -1,0 +1,5 @@
+/Users/erin/Documents/Programming/COMP 2614/Repos/comp2614HomeLab03/comp2614HomeLab03/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/erin/Documents/Programming/COMP 2614/Repos/comp2614HomeLab03/comp2614HomeLab03/bin/Debug/comp2614HomeLab03.exe.mdb
+/Users/erin/Documents/Programming/COMP 2614/Repos/comp2614HomeLab03/comp2614HomeLab03/bin/Debug/comp2614HomeLab03.exe
+/Users/erin/Documents/Programming/COMP 2614/Repos/comp2614HomeLab03/comp2614HomeLab03/obj/x86/Debug/comp2614HomeLab03.exe
+/Users/erin/Documents/Programming/COMP 2614/Repos/comp2614HomeLab03/comp2614HomeLab03/obj/x86/Debug/comp2614HomeLab03.exe.mdb
